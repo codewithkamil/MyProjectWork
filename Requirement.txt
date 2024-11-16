@@ -1,1 +1,0 @@
-This project run for mandatory few requirement such as XAMPP Control Panel, Webcam or Built-in Camera, Python Library. 
